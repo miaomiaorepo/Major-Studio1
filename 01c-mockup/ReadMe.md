@@ -5,15 +5,17 @@
 ![alt text](https://user-images.githubusercontent.com/19495692/191180861-9320fe43-d953-4c90-b0fb-24bea2ceb7f6.jpg)
 
 ***
-### Data Souce: 
+### Data Source: 
 * UN data portal 10.7.3 
 * [UN countries standard](https://unstats.un.org/unsd/methodology/m49/)
 * [Lat&Long](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
-Before:
+*Before:
+
 ![alt text](https://user-images.githubusercontent.com/19495692/191281896-b74e5816-1722-445c-becc-a767ca1157ab.png)
 
-After:
+*After:
+
 <img width="892" alt="after" src="https://user-images.githubusercontent.com/19495692/191283904-306f410d-606b-4ee1-9fc6-855daa29ca8d.png">
 
 ### Tools:
