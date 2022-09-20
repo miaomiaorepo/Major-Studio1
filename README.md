@@ -1,1 +1,1 @@
-# Major-Studio1
+# Major Studio 1
