@@ -14,7 +14,7 @@ Before:
 ![alt text](https://user-images.githubusercontent.com/19495692/191281896-b74e5816-1722-445c-becc-a767ca1157ab.png)
 
 After:
-![alt text](https://user-images.githubusercontent.com/19495692/191282586-4efecbe3-d29e-4356-aa75-a94dcbb8f657.png")
+<img width="892" alt="after" src="https://user-images.githubusercontent.com/19495692/191283904-306f410d-606b-4ee1-9fc6-855daa29ca8d.png">
 
 ### Tools:
 * [base map](https://api.mapbox.com/styles/v1/meishuke839/ckg1ufusm05sr19p07305vx5j.html?fresh=true&title=copy&access_token=pk.eyJ1IjoibWVpc2h1a2U4MzkiLCJhIjoiY2tnMXVmMWJ5MDJldDMybGlsMDZ5djJmNiJ9.1jMRjBhk0-71kF9w0FDeIA#1.07/-13.2/-43.8)
