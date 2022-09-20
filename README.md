@@ -1,2 +1,1 @@
-# Major-Studio1
- Parsons DataVis
+# Major Studio 1
