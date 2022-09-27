@@ -6,4 +6,7 @@
 * [UN SDG Indicators Database 10.7.3](https://unstats.un.org/sdgs/dataportal/database)
 * [Missing Migrant Project](https://missingmigrants.iom.int/downloads)
 
+![WX20220927-065712](https://user-images.githubusercontent.com/19495692/192508152-6e27a29a-e88e-4193-89bc-de07b74ff8cd.png)
+[^video source: PBC News]
+
 ### Final Presentation: https://miaomiaorepo.github.io/Major-Studio1/01D-final/ 
