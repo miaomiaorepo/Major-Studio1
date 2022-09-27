@@ -9,20 +9,6 @@
 ***
 ### Data Sources: 
 * [UN SDG Indicators Database 10.7.3](https://unstats.un.org/sdgs/dataportal/database)
-* [UN countries standard](https://unstats.un.org/unsd/methodology/m49/)
-* [Lat&Long](https://developers.google.com/public-data/docs/canonical/countries_csv)
+* [Missing Migrant Project](https://missingmigrants.iom.int/downloads)
 
-**Before**:  
-
-![alt text](https://user-images.githubusercontent.com/19495692/191281896-b74e5816-1722-445c-becc-a767ca1157ab.png)
-
-**After**:  
-
-<img width="892" alt="after" src="https://user-images.githubusercontent.com/19495692/191283904-306f410d-606b-4ee1-9fc6-855daa29ca8d.png">
-
-### Tools:
-* [base map](https://api.mapbox.com/styles/v1/meishuke839/ckg1ufusm05sr19p07305vx5j.html?fresh=true&title=copy&access_token=pk.eyJ1IjoibWVpc2h1a2U4MzkiLCJhIjoiY2tnMXVmMWJ5MDJldDMybGlsMDZ5djJmNiJ9.1jMRjBhk0-71kF9w0FDeIA#1.07/-13.2/-43.8)
-* qgis2threejs
-
-### Sketch 2.0:
-<img width="588" alt="WX20220920-102213@2x" src="https://user-images.githubusercontent.com/19495692/191283633-3ff0a810-a0f6-4966-a9dc-5e0cb6ba3e20.png">
+### Final Presentation: https://miaomiaorepo.github.io/Major-Studio1/01D-final/ 
