@@ -12,10 +12,10 @@
 * [UN countries standard](https://unstats.un.org/unsd/methodology/m49/)
 * [Lat&Long](https://developers.google.com/public-data/docs/canonical/countries_csv)
 
-**Before:
+**Before:**
 <img width="1060" alt="191281896-b74e5816-1722-445c-becc-a767ca1157ab" src="https://user-images.githubusercontent.com/19495692/192507259-80f4a38e-aa0c-4f24-89c9-5d0a35511e18.png">
 
-**After:
+**After:** 
 <img width="892" alt="191283904-306f410d-606b-4ee1-9fc6-855daa29ca8d" src="https://user-images.githubusercontent.com/19495692/192507304-76a9ef73-ce6b-4ed4-87b2-c802c05a528e.png">
 
 
