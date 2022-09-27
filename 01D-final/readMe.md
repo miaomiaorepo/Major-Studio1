@@ -10,7 +10,7 @@
 
 https://miaomiaorepo.github.io/Major-Studio1/01D-final/ 
 
-![WX20220927-065712](https://user-images.githubusercontent.com/19495692/192508152-6e27a29a-e88e-4193-89bc-de07b74ff8cd.png)
+![WX20220927-065703](https://user-images.githubusercontent.com/19495692/192509489-aa86dab7-0def-4c10-821a-717c21fb0093.png)
 
 ![WX20220927-065643](https://user-images.githubusercontent.com/19495692/192509357-de8ecad2-45ff-4aeb-9e60-6c40d5495108.png)
 
