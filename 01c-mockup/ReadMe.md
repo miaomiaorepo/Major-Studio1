@@ -6,8 +6,6 @@
 
 ![alt text](https://user-images.githubusercontent.com/19495692/191180861-9320fe43-d953-4c90-b0fb-24bea2ceb7f6.jpg)
 
-![191180861-9320fe43-d953-4c90-b0fb-24bea2ceb7f6](https://user-images.githubusercontent.com/19495692/192507036-fc3ad07f-0a2b-4d04-a9aa-81d565f5b589.jpeg)
-
 ***
 #### Data Sources:
 * [UN SDG Indicators Database 10.7.3](https://unstats.un.org/sdgs/dataportal/database)
