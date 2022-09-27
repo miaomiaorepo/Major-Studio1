@@ -1,0 +1,142 @@
+html,
+body {
+  margin: 0;
+  background: #282828;
+}
+
+.section {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.chart {
+  padding: 3em;
+  padding-top: 1em;
+  padding-bottom: 0em;
+}
+
+.video {
+  filter: grayscale(50%);
+}
+
+img {
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  padding: 5px;
+}
+
+hr {
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0.5em;
+  margin-block-end: 2em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  border-style: inset;
+  border-width: 1px;
+  size: ".5";
+  width: "75%";
+  color: "#3f4a49";
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap");
+
+.content h1 {
+  font-size: 3em;
+  font-family: "Aboreto", cursive;
+  color: #ededed;
+  text-align: center;
+  margin-block-start: 2em;
+}
+
+.content h2 {
+  font-size: 1.6em;
+  font-family: "Archivo Narrow", sans-serif;
+  font-weight: normal;
+  color: #ededed;
+  text-align: center;
+  margin-block-end: 2em;
+}
+
+.content h3 {
+  font-size: 2em;
+  margin-bottom: 0%;
+  margin-top: 8%;
+  font-family: "Aboreto", cursive;
+  color: #ededed;
+  text-align: center;
+}
+
+.content h4 {
+  text-align: center;
+  margin-bottom: 3em;
+  color: #ededed;
+  font-family: "Archivo Narrow", sans-serif;
+}
+
+.chart h4 {
+  font-size: 1.5em;
+  font-family: "Aboreto", cursive;
+  color: #ededed;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.chart h5 {
+  font-size: 1em;
+  font-family: "Archivo Narrow", sans-serif;
+  font-weight: normal;
+  color: #ededed;
+  text-align: left;
+  margin-bottom: 12;
+  margin-top: 12;
+}
+
+p {
+  color: #ededed;
+  font-family: "Archivo Narrow", sans-serif;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  line-height: 1.6;
+}
+
+blockquote {
+  padding: 0 50px;
+  /* margin:  100px; */
+  margin-left: 100px;
+  border-left: 4px solid #b79282;
+  color: #ededed;
+  font-family: "Archivo Narrow", sans-serif;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+/* Trigger message box */
+.alert {
+  padding: 15px;
+  background-color: #232929;
+  color: #f2ebe9a6;
+  margin-bottom: 0px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 18px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
