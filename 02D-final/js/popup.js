@@ -24,7 +24,7 @@ function handleMouseover(e, d) {
   let chart = d3.select("#chart")
   let word = d.word_index
   popup.point(this).html(word).draw()
-console.log(this)
+  console.log(this)
 
   //unselected given light grey
   chart.selectAll("rect").attr("fill", "#F4F4F4")
@@ -113,5 +113,5 @@ function handelClick() {
   var a = document.createElement("a")
   a.download = "sample.svg"
   a.href = dataUrl
-  a.click()
+  //a.click()
 }
