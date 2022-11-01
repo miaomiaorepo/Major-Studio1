@@ -1,7 +1,7 @@
 /*global d3*/
 function update() {
   const layoutData = layout(data)
-  console.log(layoutData)
+  //console.log(layoutData)
 
   //column width 60
   const head_year = ["2016", "2017", "2018", "2019", "2020", "2021", "2022"]
@@ -12,7 +12,7 @@ function update() {
     .selectAll("text")
     .data(head_year)
     .join("text")
-    .attr("x", (d, i) => +dx_list[i] +22)
+    .attr("x", (d, i) => +dx_list[i] + 22)
     .attr("y", 25)
     .text(d => d)
 
