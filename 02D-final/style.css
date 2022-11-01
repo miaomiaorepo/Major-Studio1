@@ -1,0 +1,78 @@
+.flourish-popup {
+  pointer-events: none;
+}
+
+#header {
+  font-size: 1.5rem;
+  font-weight: 650;
+  /*letter-spacing: -0.2rem;*/
+  padding: 1rem;
+  text-align: center;
+  color: #272727
+  /*border: 1px solid green;*/
+}
+
+body {
+  background-color: #fffff7;
+  cursor: default;
+  font-family: "Open Sans", sans-serif;
+  /*border: 1px solid red;*/
+/*  position: absolute;*/
+/*left: 125px;*/
+}
+
+/* #header {
+  position: absolute;
+  left: 330px;
+} */
+
+#xaxis {
+  /* position: absolute;
+  top: 65px;
+  left: 325px; */
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*border: 1px solid green;*/
+  font-size: 1rem;
+}
+
+ #wrapper {
+  /*position: absolute;*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /*border: 1px solid black;*/
+} 
+
+.chart-container {
+  display: flex;
+}
+
+#full-text {
+background: #FFFFFF;
+box-shadow: 4px 4px 4px rgba(103, 102, 102, 0.25);
+border-radius: 10px;
+}
+
+#text-container p {
+  max-width: 450px;
+  /*border: 1px solid blue*/
+  /*display: flex;*/
+  /*justify-content: center;*/
+  /*align-items:center;*/
+}
+
+#full-text {
+  position: absolute
+}
+
+#text-container .year {
+  font-size: 0.9rem;
+  color: #387dce;
+  font-weight: 600;
+}
+#text-container .sentence {
+  color: #387dce;
+  font-size: 0.6rem;
+}
