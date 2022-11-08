@@ -9,33 +9,39 @@
 </head>
 
 <body>
-  <div id="header">Keywords Change in SDG Reports</div>
+  <div id="header">Top 100 Keywords in SDG Reports: Frequency and Change
+  </div>
 
 
 
   <div id="wrapper">
-    <div id="xaxis">
-      <svg id="chart_head" width="460" height="30">
-      </svg>
 
+    <div id="xaxis">
+      <svg id="chart_head" width="460" height="30"></svg>
     </div>
 
     <div class='chart-container'>
-      <svg width="410" height="600">
-        <!-- <g id="chart_head"></g> -->
-        <g id="chart"></g>
-        <!-- <g id="summary"></g> -->
-      </svg>
+      <div id="trends-container">
+        <svg width="410" height="600">
+          <!-- <g id="chart_head"></g> -->
+          <g id="chart"></g>
+          <!-- <g id="summary"></g> -->
+        </svg>
+      </div>
+      <div id="preset-container">
+        <svg id="preset-text" width="80" height="600"></svg>
+      </div>
       <div id="text-container">
         <div id="full-text">
         </div>
       </div>
+
     </div>
   </div>
 
 
-  <script src="js/popup-v1.1.1.js"></script>
-  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="js/lib/popup-v1.1.1.js"></script>
+  <script src="js/lib/d3.min.js"></script>
   <script src="js/popup.js"></script>
   <script src="js/config.js"></script>
   <script src="js/layout.js"></script>

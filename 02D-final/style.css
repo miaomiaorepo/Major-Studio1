@@ -8,7 +8,7 @@
   /*letter-spacing: -0.2rem;*/
   padding: 1rem;
   text-align: center;
-  color: #272727
+  color: #272727;
   /*border: 1px solid green;*/
 }
 
@@ -17,8 +17,8 @@ body {
   cursor: default;
   font-family: "Open Sans", sans-serif;
   /*border: 1px solid red;*/
-/*  position: absolute;*/
-/*left: 125px;*/
+  /*  position: absolute;*/
+  /*left: 125px;*/
 }
 
 /* #header {
@@ -32,27 +32,34 @@ body {
   left: 325px; */
   /*display: flex;*/
   /*justify-content: center;*/
-  /*border: 1px solid green;*/
   font-size: 1rem;
 }
 
- #wrapper {
+#preset-text {
+  position: absolute;
+  /* border: 1px solid green; */
+  /* left: 922px;
+  top: 105px; */
+  font-size: 0.9rem;
+}
+
+#wrapper {
   /*position: absolute;*/
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   /*border: 1px solid black;*/
-} 
+}
 
 .chart-container {
   display: flex;
 }
 
 #full-text {
-background: #FFFFFF;
-box-shadow: 4px 4px 4px rgba(103, 102, 102, 0.25);
-border-radius: 10px;
+  background: #ffffff;
+  box-shadow: 4px 4px 4px rgba(103, 102, 102, 0.25);
+  border-radius: 10px;
 }
 
 #text-container p {
@@ -64,7 +71,7 @@ border-radius: 10px;
 }
 
 #full-text {
-  position: absolute
+  position: absolute;
 }
 
 #text-container .year {

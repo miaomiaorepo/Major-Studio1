@@ -8,4 +8,4 @@ function dataIsReady(csv) {
   update()
 }
 
-d3.csv("data/freq_sent.csv").then(dataIsReady)
+d3.csv("data/freq_sent3.csv").then(dataIsReady)
