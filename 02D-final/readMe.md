@@ -1,4 +1,4 @@
 ## Keyword changes in SDG reports
 https://miaomiaorepo.github.io/Major-Studio1/02D-final/
 
-https://github.com/miaomiaorepo/Major-Studio1/blob/main/02D-final/frequency.png?raw=true
+![regions](https://user-images.githubusercontent.com/19495692/200504645-48fac083-4c9c-40de-aace-cb42bca41e44.png)
